@@ -1,0 +1,77 @@
+#canvas{
+	font-size:0px;
+}
+.canvasRow{
+	line-height: 0px;
+	margin : 0px;
+}
+.canvasCell{
+	display: inline-block;
+	width : 10px;
+	height : 10px;
+	border-top: 2px solid black;
+	border-left: 2px solid black;
+
+}
+.paletteCell{
+	margin: 5px auto;
+	display: inline-block;
+	width : 50px;
+	height : 50px;
+	border: 2px solid black;
+}
+.rightColumn{
+	border-right: 2px solid black;
+}
+.bottomRow>div{
+	border-bottom: 2px solid black;
+}
+.red{
+	background-color: red;
+	
+	}
+.orange{
+	background-color: orange;
+	
+}
+.yellow{
+	background-color: yellow;
+	
+	}
+.green{
+	background-color: green;
+	
+}
+.blue{
+	background-color: blue;
+	
+	}
+.indigo{
+	background-color: indigo;
+	
+}
+.violet{
+	background-color: violet;
+	
+}
+#red{
+	background-color: red;
+	}
+#orange{
+	background-color: orange;
+}
+#yellow{
+	background-color: yellow;
+	}
+#green{
+	background-color: green;
+}
+#blue{
+	background-color: blue;
+	}
+#indigo{
+	background-color: indigo;
+}
+#violet{
+	background-color: violet;
+}
